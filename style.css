@@ -1,0 +1,434 @@
+
+            .heading{
+                  width: 1100px;
+                  height: 45px;
+                 margin-left: 60px;
+                  padding: 10px 101px 25px 102px;
+                  background-color: #ce0505;
+           }
+           .logo{
+                  position: absolute;
+                  width: 52px;
+                  height: 52px;
+                  margin-left: 28px;
+                  margin-top: 4px;
+                  padding: 1px 10px 4px ;
+                  background-color: #ffffff;
+                  border-radius: 25px; 
+
+                  width: 32px;
+                  height: 47px;
+                  font-family: Yu Gothic UI;
+                  font-size: 33px;
+                  font-weight: 600;
+                  font-stretch: normal;
+                  font-style: normal;
+                  line-height: 1.52;
+                  letter-spacing: normal;
+                  text-align: left;
+                  color: #eb2929;
+                }                 
+                .Login {
+                  width: 43px;
+                  height: 23px;
+                  margin-left: 82%;
+                  margin-top: 25px;
+                  font-family: Yu Gothic UI;
+                  font-size: 16px;
+                  font-weight: 500;
+                  font-stretch: normal;
+                  font-style: normal;
+                  line-height: 1.56;
+                  letter-spacing: normal;
+                  text-align: left;
+                  color: #f3efef;
+                }
+                .createanaccount {
+                  position: absolute;
+                  width: 181px;
+                  height: 46px;
+                  border-radius: 3px;
+                  border: solid 1px #fdfafa;
+                  margin-left: 64%;
+                  margin-bottom: 25px;
+                  margin-top: -22px;
+                  padding-left: 15px;
+                  padding-bottom: 2px;
+                  
+
+                  
+                  width: 152px;
+                  height: 23px;
+                  font-family: Yu Gothic UI;
+                  font-size: 16px;
+                  font-weight: 500;
+                  font-stretch: normal;
+                  font-style: normal;
+                  line-height: 1.56;
+                  letter-spacing: normal;
+                  text-align: left;
+                  color: #ffffff;
+                  }
+                  .Breakfast-Places-in-Mumbai {
+                    width: 512px;
+                    height: 51px;
+                    margin-top: 10px;
+                    margin-left: 120px;
+                    font-family: Yu Gothic UI;
+                    font-size: 38px;
+                    font-weight: bold;
+                    font-stretch: normal;
+                    font-style: bold;
+                    line-height: 1.53;
+                    letter-spacing: normal;
+                    text-align: left;
+                    color:#192f60;
+
+;
+                    }
+
+                    .verticalblock {
+                        display: inline-block;
+                     width: 180px;
+                     height: 540px;
+                     margin-left: 120px;
+                     margin-top: 15px;
+                     padding: 17px 25px 31px 26px;
+                     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+                     background-color: #ffffff;
+                    }
+                    .h1 {
+                    display: inline-block;
+                     width: 794px;
+                     height: 240px;
+                     margin-left: 250px;
+                     margin-top: -594px;
+                     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+                     background-color: #ffffff;
+                     }
+                    .h2 {
+                        display: inline-block;
+                     width: 794px;
+                     height: 240px;
+                     margin-left: 250px;
+                     margin-top: -315px;
+                     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+                     background-color: #ffffff;
+                     }
+                     .Filters {
+                       width: 55px;
+                       height: 25px;
+                       margin: 0 154px 10px 0;
+                       font-family: Yu Gothic UI;
+                       font-size: 18px;
+                       font-weight: 600;
+                       font-stretch: normal;
+                       font-style: normal;
+                       line-height: 1.5;
+                       letter-spacing: normal;
+                       text-align: left;
+                       color: #192f60;
+                    }
+                    .Select-Location {
+                       width: 106px;
+                       height: 20px;
+                       
+                       font-family: Yu Gothic UI;
+                       font-size: 14px;
+                       font-weight: normal;
+                       font-stretch: normal;
+                       font-style: normal;
+                       line-height: 1.5;
+                       letter-spacing: normal;
+                       text-align: left;
+                       color: #192f60;
+                  }
+ .selectionbox {
+   width: 160px;
+   height: 30px;
+   margin-top: 10px;
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-right: 20px;
+   padding-bottom: 5px;
+   font-family: Yu Gothic UI;
+   font-size: 14px;
+   font-weight: normal;
+   font-stretch: normal;
+   font-style: normal;
+   border-radius: 5px;
+   border:2px solid #8c96ab; 
+}
+.selectcolor{
+  color: #8c96ab;
+}
+.Cuisine {
+  width: 51px;
+  height: 20px;
+  margin: 22px 157px 15px 1px;
+  font-family: Yu Gothic UI;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.c1 {
+  
+  margin-right: 5px;
+  
+  
+}
+
+.North-Indian {
+  width: 85px;
+  height: 20px;
+  margin-left: 7px;
+  font-family: Yu Gothic UI;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+.Cost-For-Two {
+  width: 89px;
+  height: 20px;
+  margin: 26px 119px 15px 1px;
+  font-family: Yu Gothic UI;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.circle {
+  
+  margin-bottom: 5px;
+  
+}
+.Less-than-500 {
+  width: 106px;
+  height: 20px;
+  margin-left: 7px;
+  font-family: Yu Gothic UI;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+.Less-than-500 .text-style-1 {
+  font-family: RupeeForadian;
+}
+.Sort {
+  width: 37px;
+  height: 25px;
+  margin: 29px 172px 15px 0;
+  font-family:Yu Gothic UI;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.radios {
+  
+  margin: 15px 11px 14px 1px;
+  
+  
+}
+.Price-low-to-high {
+  width: 114px;
+  height: 20px;
+  
+  font-family: Yu Gothic UI;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+.img {
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+  margin-top: 15px;
+  border-radius: 20px;
+ 
+}
+.The-Big-Chill-Cakery {
+    position: absolute;
+  width: 298px;
+  height: 43px;
+  margin-left: 140px;
+  margin-top: -95px;
+  font-family: Yu Gothic UI;
+  font-size: 26px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}    
+     
+.The-Bake-Shop {
+    position: absolute;
+  width: 298px;
+  height: 43px;
+  margin-left: 140px;
+  margin-top: -95px;
+  font-family: Yu Gothic UI;
+  font-size: 26px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}  
+
+.FORT {
+  position: absolute;
+  
+  margin-top: -60px;
+  margin-left: 143px;
+  font-family: Yu Gothic UI;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+  width: 365px;
+  height: 23px;
+  margin-top: -35px;
+  margin-left: 143px;
+  font-family: Yu Gothic UI;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+
+.lines {
+  width: 726.4px;
+  height: 0;
+  margin: 25px;
+  border: solid 1px #dedfe5;
+}
+.CUISINES-COST-FOR-TWO {
+  width: 140px;
+  height: 118px;
+  margin-left: 25px;
+  margin-top: -15px;
+  font-family: Yu Gothic UI;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.CUISINES-COST-FOR-TWO1 {
+  width: 140px;
+  height: 118px;
+  margin-left: 25px;
+  margin-top: -80px;
+  font-family: Yu Gothic UI;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.Bakery-700 {
+  position: absolute;
+  width: 251px;
+  height: 69px;
+  margin-top: -155px;
+  margin-left: 170px;
+  font-family: Yu Gothic UI;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Bakery-7001 {
+  position: absolute;
+  width: 251px;
+  height: 69px;
+  margin-top: -116px;
+  margin-left: 170px;
+  font-family: Yu Gothic UI;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.pagination {
+  width: 500px;
+  height: 46px;
+    margin-left: 500px;
+    margin-top: -40px;
+    
+}
+.page{
+  width: 36px;
+  height: 36px;
+  padding: 7px ; 
+  margin-left: 5px;
+    border: #8c96ab 2px solid;
+    border-radius: 9px;
+}
+
+.secpage{
+ margin-left: 60px;
+ width: 1500px;
+ height: 750px;
+}
+                 
+        
